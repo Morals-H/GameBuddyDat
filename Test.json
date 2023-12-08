@@ -1,4 +1,5 @@
 {
+    this is the updated test json and should not work
     "git": "github.com",
     "method": "super hacky",
     "creation": "Today"
