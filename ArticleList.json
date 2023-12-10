@@ -8,11 +8,11 @@
         "creation": "12/10/2023"
     },
     {
-        "title" : "Shawn the nice",
-        "tagline" : "Shawn is very nice and I like him a lot.",
-        "tags" : ["Shawn"],
-        "thumbnailURL": "https://i.postimg.cc/90hLWRJs/Shawn-Logo-Christmas.png",
+        "title" : "Rust",
+        "tagline" : "Rust, a game about loot, survival, and racism. With hackers and racists around every corner, your quality of life will do nothing but deteriorate.",
+        "tags" : ["Surv"],
+        "thumbnailURL": "https://i.postimg.cc/SRGvvQ7v/RustMenu.png",
         "link": "github.com",
-        "category": "Shawn",
+        "category": "Survival",
         "creation": "12/10/2023"
     }
