@@ -1,18 +1,18 @@
-    {
-        "title" : "Smalland",
-        "tagline" : "Smalland: Survive the Wilds is a survival game reminiscent of Grounded. Embark on a journey where you must navigate the challenges of existence as a microscopic person.",
-        "tags" : ["Surv"],
-        "thumbnailURL": "https://i.postimg.cc/K8PNsb3B/Smallands-Menu.png",
-        "link": "github.com",
-        "category": "Survival",
-        "creation": "12/10/2023"
-    },
-    {
-        "title" : "Rust",
-        "tagline" : "Rust, a game about survival, theft, and murder. With hackers and racists around every corner, your quality of life will do nothing but deteriorate.",
-        "tags" : ["Surv"],
-        "thumbnailURL": "https://i.postimg.cc/SRGvvQ7v/RustMenu.png",
-        "link": "github.com",
-        "category": "Survival",
-        "creation": "12/10/2023"
-    }
+{
+    "title" : "Rust",
+    "tagline" : "A game about survival, theft, and murder. With hackers and racists around every corner, your quality of life will do nothing but deteriorate.",
+    "tags" : ["FPS"],
+    "thumbnailURL": "https://i.postimg.cc/SRGvvQ7v/RustMenu.png",
+    "link": "github.com",
+    "category": "Survival",
+    "creation": "12/10/2023"
+},
+{
+    "title" : "Smalland: Survive the Wilds",
+    "tagline" : "A survival game reminiscent of Grounded. Embark on a journey where you must navigate the challenges of existence as a microscopic person.",
+    "tags" : ["Coop"],
+    "thumbnailURL": "https://i.postimg.cc/K8PNsb3B/Smallands-Menu.png",
+    "link": "github.com",
+    "category": "Survival",
+    "creation": "12/10/2023"
+},
