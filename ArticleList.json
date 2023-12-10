@@ -1,18 +1,20 @@
-{
-    "title" : "Eric the rude",
-    "tagline" : "Eric is very rude and I don't like him.",
-    "tags" : ["Eric"],
-    "thumbnailURL": "https://i.postimg.cc/90hLWRJs/Shawn-Logo-Christmas.png",
-    "link": "github.com",
-    "category": "Eric",
-    "creation": "12/8/2023"
-}
-{
-    "title" : "Shawn the nice",
-    "tagline" : "Shawn is very nice and I like him alot.",
-    "tags" : ["Shawn"],
-    "thumbnailURL": "https://i.postimg.cc/90hLWRJs/Shawn-Logo-Christmas.png",
-    "link": "github.com",
-    "category": "Shawn",
-    "creation": "12/10/2023"
-}
+[
+    {
+        "title" : "Eric the rude",
+        "tagline" : "Eric is very rude and I don't like him.",
+        "tags" : ["Eric"],
+        "thumbnailURL": "https://i.postimg.cc/90hLWRJs/Shawn-Logo-Christmas.png",
+        "link": "github.com",
+        "category": "Eric",
+        "creation": "12/8/2023"
+    },
+    {
+        "title" : "Shawn the nice",
+        "tagline" : "Shawn is very nice and I like him a lot.",
+        "tags" : ["Shawn"],
+        "thumbnailURL": "https://i.postimg.cc/90hLWRJs/Shawn-Logo-Christmas.png",
+        "link": "github.com",
+        "category": "Shawn",
+        "creation": "12/10/2023"
+    }
+]
